@@ -1,5 +1,5 @@
 # Machine_Learning
-Machine Learning Algorithm by Numpy 
+Sample Machine Learning Algorithm by Numpy 
 ## implemented : ##
 ### Linear Regression: OLS, Ridge Regression ###
 ### Decision Tree: CART ###
